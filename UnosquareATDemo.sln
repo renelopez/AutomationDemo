@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnosquareATDemo.Tests", "UnosquareATDemo.Tests\UnosquareATDemo.Tests.csproj", "{6E10DD7F-F5A6-437C-99ED-C50A7332E48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unosquare.ATDemo.Framework", "Unosquare.ATDemo.Framework\Unosquare.ATDemo.Framework.csproj", "{120039FF-E5B6-47CC-A4C6-620D1643E908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E10DD7F-F5A6-437C-99ED-C50A7332E48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E10DD7F-F5A6-437C-99ED-C50A7332E48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E10DD7F-F5A6-437C-99ED-C50A7332E48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E10DD7F-F5A6-437C-99ED-C50A7332E48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120039FF-E5B6-47CC-A4C6-620D1643E908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120039FF-E5B6-47CC-A4C6-620D1643E908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120039FF-E5B6-47CC-A4C6-620D1643E908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120039FF-E5B6-47CC-A4C6-620D1643E908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
