@@ -36,10 +36,7 @@ namespace Unosquare.ATDemo.Framework.Pages
 
         public bool AreValidatorsVisible()
         {
-            Thread.Sleep(3000);
             return _validatorList.Count == ValidatorCount;
-        }
-
-        
+        }        
     }
 }

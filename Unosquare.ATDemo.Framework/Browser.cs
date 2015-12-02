@@ -13,7 +13,7 @@ namespace Unosquare.ATDemo.Framework
 {
     public class Browser:IDisposable
     {
-        public const string BASE_URL="http://unosquare.com";
+        public const string BASE_URL="http://preview.unosquare.net";
 
         public static IWebDriver webdriver;
 
